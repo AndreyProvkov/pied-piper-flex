@@ -1,2 +1,4 @@
 # pied-piper-flex
-Learn project
+## Using technology
+- HTML
+- CSS
